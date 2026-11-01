@@ -1,0 +1,38 @@
+schema_version: 1
+id: gwak-cheonung
+name_ko: 곽천웅
+aliases:
+- 혈귀채주
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - janggang-18chae
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 본문
+  value:
+    text: 장강수로십팔채 제1채 혈귀채의 진짜 채주. 염강섭에게 혈혼사 중독·사칭 피해를 입고 지하뇌옥에서 발견되어 치료받았다. 아미구양신공을 백화신니가 보유함을 실제로 알고 있었다. 조부 곽파로는 곽양의 친동생. 생년·경지·외형·보이스·시트 미확정.
+    locator: §2.36
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 생년·경지·외형·보이스·시트 미확정. (§2.36)

@@ -1,0 +1,38 @@
+schema_version: 1
+id: dae-mira
+name_ko: 대미라
+aliases:
+- 청룡채주
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - janggang-18chae
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 본문
+  value:
+    text: 장강수로십팔채 청룡채주. 시즌1 혜은 일행에게 포박되어 끌려왔다. 이후 행적·생년·경지·외형·보이스·시트 미확정.
+    locator: §2.37
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 이후 행적·생년·경지·외형·보이스·시트 미확정. (§2.37)

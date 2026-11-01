@@ -1,0 +1,75 @@
+schema_version: 1
+id: jegal-ryeongryeong
+name_ko: 령령
+aliases:
+- 제갈령령
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - jegal
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 1329년생, 1353년 기준 24세. 제갈세가 장녀·정실부인 소생, 절정.
+    locator: §2.28
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공
+  value:
+    text: 소천성공·소천성검법·천기미리보, 진법 수련(세부 진법명 미정). 감독안 작가 채택 완료.
+    locator: §2.28
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 48화 오전 남궁휘와 정략결혼, 같은 날 오후 용봉지회 예선 시작.
+    locator: §2.28
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 초홍의 친언니, 민아의 이복언니. 어린 시절 민아 친모 사망 사건에서는 방관. 악의적 가담으로 확대하지 않는다.
+    locator: §2.28
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 시트
+  value:
+    text: 이번 첨부 1000034707.png. 얼굴·긴 흑발과 올림 부분·옥빛 꽃 비녀·옥/진주 귀걸이·청옥색/아이보리 금빛 자수 긴 의상·허리 옥 장식·꽃 장식 하이힐을 보존한다. S.H.E. 소속·브랜드 의상으로 만들지 않는다. 시트의 24세(추정)는 출생연도 설정으로 대체한다.
+    locator: §2.28
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 성격·보이스·검 외형과 부부의 애정은 미정.
+    locator: §2.28
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- '무공: 소천성공·소천성검법·천기미리보, 진법 수련(세부 진법명 미정). 감독안 작가 채택 완료. (§2.28)'
+- 성격·보이스·검 외형과 부부의 애정은 미정. (§2.28)
+- '제갈령령: 성격·보이스·검 외형・부부관계 상세。출생·신분·절정·주력 무공·친족·첨부 시트는 2.28 참조. (§11.26)'

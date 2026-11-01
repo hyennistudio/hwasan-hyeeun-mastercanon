@@ -1,0 +1,143 @@
+schema_version: 1
+id: chaewon
+name_ko: 채원
+aliases:
+- 방채원
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - janggang-18chae
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 47세 — 현세 기준. 원말 나이 환산 미확정.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: I컵 — 작가 제공 S.H.E. 원문 기준.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 장강수로십팔채. 화산에서 수련 중.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 2대 홍염채주
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 65화 시점 초절정. 유진 아미산행 이후 송현과 수련하며 조화경 도달·극 월광채원도결 창안.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 여유롭고 계산적이며 자부심과 자신의 자리를 지키려는 성향이 강하다. 혜은을 신뢰하고 보좌한다. 긴 갈색 웨이브 반묶음, 분홍·흰 꽃 장식, 드롭 귀걸이·검정 보석 목걸이. 얼굴과 체형은 기수별 지정 시트를 따른다. 시즌3의 1기 두 모드에서는 동일한 얼굴과 체형을 유지하며, 시즌4의 2기는 새 통합 시트로 고정한다.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 혜은의 친한 동생. 유라와 현세 송도 시절부터 알고 지낸 동갑 친구. 희선과 친자매 같은 오래된 인연. 화산에 배움을 청하지만 홍염채주 지위는 유지한다. 54화 흑봉의 개방 문도 발언은 탈출용 궤변이며 실제 탈퇴가 아니다.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 월광도법'
+  value:
+    text: 대성. 팔식 홍염개화·구식 월영난무.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 암향표'
+  value:
+    text: 화산파의 은밀하고 신속한 보법. 이번 송현의 가르침으로 전수받는다. 성수 미확정.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 옥녀심공'
+  value:
+    text: 송현에게 전수받는 화산 내공심법. 성수 미확정.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 극 월광채원도결'
+  value:
+    text: 유진의 아미산행 이후 화산에 남아 송현과 수련하며 조화경에 도달하고 창안한다. 창안 시 1성. 65화 시점은 창안 전.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: '내공과 무공에서 발현되는 기운 색은 붉은달빛으로 고정한다.
+
+      화산은 도가문파이자 검을 쓰는 검파다. 도를 주무기로 쓰는 채원에게 송현은 보법과 심법을 통해 도움을 준다. 채원은 기존 사파 무공에서 더 배울 것이 없는 한계를 넘어, 화산 무공의 심득과 자신의 도법을 결합하며 성장한다.
+
+      월광은 큰 초승달형 외날 도이며 분홍·청·보라 표면 광택을 갖는다. 시즌3는 1기 홍염 시트의 구조, 시즌4는 2기 시트 하단 무기 상세의 구조를 따른다. 칼날의 반사색과 채원의 붉은달빛 내공 기운은 구분한다.'
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 현재 시즌3는 1기를 유지한다. 시즌3 후반 유진의 아미산행 이후 송현과 수련하며 조화경 도달·극 월광채원도결 창안. 시즌4 시작부터 2기를 적용한다. 시즌3 전투는 기존 홍염모드이며 61화도 마지막까지 홍염모드다. 2기는 일반·홍염모드 구분을 삭제한 단일 통합 착장으로 일상과 전투에 동일하게 적용한다. 2기에 1기의 호피 퍼코트·검정 미니 원피스·별도 홍염 착장을 혼합하지 않는다. 평소 월광은 손에 들지 않으며, 전투·발도 등 필요한 장면에서만 등장시킨다. 얼굴·체형·재단·기장·등판 끈·장신구·스타킹·하이힐·무기는 최신 2기 시트 그대로 유지한다.
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '관능적이고 요염한 중저음에 차갑고 단호한 느낌이 섞여 있다.
+
+      부드럽고 매혹적인 톤이 기본이지만, 감정이 실리거나 명령할 때는 목소리가 살짝 낮아지면서 날카롭고 위협적인 분위기가 강해진다.'
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 1기 / 기본 비전투\n  - 자료: 1000033234.png\n  - 자산 식별: libfile_0e48ba562d94819197df47332236424f\n  - 상세 고정: 검정 레이스 미니 원피스·얇은 어깨끈·레이스 등판. 어깨 아래 걸친 표범무늬 퍼코트. 붉은 페이턴트 포인티드 토 보석 장식 불가리 하이힐. 꽃 장식·귀걸이·검정 물방울 보석 목걸이.\n- 1기 / 홍염 전투모드\n  - 자료: 1000033208.jpg\n  - 자산 식별: libfile_05e3b249135c81918b30807dfa137b6a\n  - 상세 고정: 검정 레이스 홀터 전투 착장, 가터와 검정 스타킹, 같은 표범 퍼코트·헤어·장신구·붉은 불가리 힐. 월광의 칼날과 가드·손잡이 상세 포함. 기본과 달라지는 항목은 착장과 월광이다.\n- 2기 / 시즌4 · 조화경 이후 · 일상/전투 통합\n  - 자료: **1000033530.png** — 작가가 최종 지정한 최신 2기 시트.\n  - 자산 식별: libfile_66d78834a8388191afe7874dbfcfb25d\n  - 파일 식별: file_000000001d5c8209a4daf306c848a435\n  - 우선순위: 이전 2기 시안과 1000033521.png를 대체한다. 이전 생성 시안의 호피 퍼코트·검정 레이스 단정 원피스는 2기에 사용하지 않는다.\n  - 얼굴·헤어: 우측 얼굴 상세를 정체성 기준으로, 갈색 볼륨 웨이브 반묶음·분홍/흰 꽃 장식·초승달 장식·드롭 귀걸이를 시트대로 유지한다. 얼굴 비례와 체형을 임의 재해석하지 않는다.\n  - 통합 착장: 검정·진홍·금색의 월광/홍염 콘셉트. 검정 레이스와 진홍 장식, 금색 자수·초승달 허리 장식·보석 체인, 어깨를 드러낸 긴 시스루 소매와 늘어지는 붉은 천, 높은 옆트임과 긴 겉자락. 뒤판의 교차 끈과 장식, 앞·뒤·사선에서의 재단과 기장을 고정한다. 호피 퍼코트 없음.\n  - 장신구·스타킹: 검정·붉은 보석 목걸이, 금색·붉은\
+      \ 보석 장식 체인, 불가리 로고 계열 문양의 검정 망사 스타킹과 시트의 상단 밴드·연결 장식을 유지한다.\n  - 신발: 붉은 페이턴트 포인티드 토 불가리 월광/홍염 한정판 하이힐. 금색 곡선 세공·붉은 보석·투명 보석·체인 상세를 정면·측면·후면 모두 동일하게 유지한다.\n  - 월광: 인물과 분리된 하단 무기 패널을 기준으로 한다. 긴 초승달형 은빛 곡선 외날, 분홍·청·보라 반사색, 금색 세공·초승달 장식 가드, 검정/붉은 손잡이와 붉은 물방울 보석 장식을 고정한다. 평상시 인물 컷에 자동으로 쥐여 주지 않는다.\n  - 시트의 분할 화면·라벨은 영상에 재현하지 않는다. 시트에 인쇄된 설명이 기존 인물 프로필과 충돌하면 이름·나이·소속·직위·경지·보이스는 마스터캐논을 따른다.\n- 용봉지회 / 과거 임시 착장\n  - 자료: 별도 통합 시트 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 회색·갈색 누더기 장포와 패치워크. 합비 이탈을 위한 변장. 현재 기본으로 사용하지 않는다."
+    locator: §2.3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 암향표·옥녀심공 성수; 월광도법 팔식·구식 외의 초식 설정; 극 월광채원도결의 상세와 이후 성장 과정(창안 시 1성); 원말 나이·외형 나이; 전대 홍염채주 안유태와의 관계 및 계승 경위. (§11.3)

@@ -1,0 +1,38 @@
+schema_version: 1
+id: yeom-gangseop
+name_ko: 염강섭
+aliases:
+- 혈량대주
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - sasa-hyeolgyo
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 본문
+  value:
+    text: 사사혈교 3인자. 시즌1에 장강수로십팔채 제1채 혈귀채주 곽천웅을 혈혼사에 중독시키고 사칭했다. 목적은 아미구양신공의 행방 파악. 혜은의 무위를 보고 도주. 혈불과 별개 인물. 생년·경지·외형·보이스·시트 미확정.
+    locator: §2.35
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 생년·경지·외형·보이스·시트 미확정. (§2.35)

@@ -1,0 +1,115 @@
+schema_version: 1
+id: jegal-mina
+name_ko: 민아
+aliases:
+- 제갈민아
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - jegal
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정. 17세에 팔진도를 익힌 기록은 생애 중 시점이며 사망 나이로 쓰지 않는다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 미확정 — 유라의 G컵을 자동 대입하지 않는다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 제갈세가
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 생전 천재
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 생전 경지 미확정. 현재 유라의 절정을 자동 대입하지 않는다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 41화는 민아의 성장과정을 보여준다. 민아는 희대의 천재였다. 친모는 가문의 반역자로 몰려 죽임을 당했다. 가문은 민아에게 정략결혼을 요구했고 민아는 거부했다. 가문은 민아를 일부러 독에 중독시켜 병자로 만들었다. 세간에 소문이 나지 않도록 민아를 격리하여 가둬놓았다. 민아는 탈출했고 융중산 깊은 동굴에서 은거하며 병을 고치려 했으나 낫지 못했다. 친모의 실제 반역 여부나 가해자 개인의 이름은 추가 확정하지 않는다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 1350년 융중산에서 유라와 만난 별개 인물. 무공·지식·세월을 전수한 뒤 사망했고 함께 지내던 동굴에 묻혔다. 살아 돌아오거나 몸에 빙의된 인물로 만들지 않는다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 제갈세가 무공·지식, 17세 팔진도 습득. 전수의 기술·내공 수치·의식·영혼 이전은 미확정.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 회상 속 생전 민아와 현재 민아 외형으로 활동하는 유라를 서사에서 구분한다. 현재 시트가 생전 모든 시점의 복장이라는 뜻은 아니다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 현재 민아로 활동하는 유라의 보이스는 2.6 유라 프로필과 동일. 민아의 생전 보이스는 미확정.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 생전 회상 / 기수 미지정\n  - 자료: 별도 생전 시트 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 현재 민아 시트를 생전 의상의 확정 자료로 자동 사용하지 않는다."
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 제갈세가 삼녀, 두 번째 부인의 딸. 장녀 령령·차녀 초홍은 정실부인 소생인 이복언니들. 모친이 역모로 몰려 죽었을 당시 세 자매 모두 매우 어렸으며 령령·초홍은 방관한 입장. 적극 가담·악의적 묵인으로 확대하지 않는다. 41화 참조. 현재 민아 신분의 유라와 민아의 혈연·생애를 구분한다.
+    locator: §2.7
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 사망 당시 나이·외형 나이·유방 사이즈; 생전 경지; 생전 시트와 착장; 생전 보이스가 현재 유라/민아와 같은지; 친모·가해자 이름; 전수 상세. (§11.7)

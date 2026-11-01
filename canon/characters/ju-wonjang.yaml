@@ -1,0 +1,114 @@
+schema_version: 1
+id: ju-wonjang
+name_ko: 주원장
+aliases:
+- 주원장
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hongwol-ju-alliance
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 홍월신교·주원장 연합
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 홍월신교의 1인자 / 강남의 패자
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 적용 제외 — 실존 역사 인물이며 무협 경지·성수로 분류하지 않는다.
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 낮고 굵은 청년 무장 외형·연기. 정확한 나이와 역사상의 시점을 자동 대입하지 않는다.
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 민아와 상호 존대. 유라의 본래 정체는 모른다. 1350년 곽자흥 휘하 상태와 1352년 이후 통합 상태를 구분한다.
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 실존 인물 명나라 초대 황제 홍무제 주원장을 작품에 각색한다. 현재 시점에는 황제의 관복·왕관을 입히지 않는다. 무협 무공 수위는 제외한다. 애병은 민아가 신기를 불어넣은 사인검. 곧은 양날 은색 칼날·호랑이와 별 문양·검정 감은 손잡이·금속 호위·검두·어두운 검집·붉은 검수. 신기의 구체 효능은 미확정이며 검 자체의 설정을 주원장의 내공 경지로 바꾸지 않는다.
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 첨부 얼굴·짧은 흑발·흉터를 유지한다. 손책을 모티브로 한 젊은 패자의 실전적인 기세. 검은 철갑·짙은 홍색 비단·지휘관 망토, 금색은 테두리와 주요 장식에 절제해 사용한다. 최신 생성안의 추가 금장 축소는 후속 수정 방향이며 수정 완료로 선언하지 않는다.
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '주원장(남성)의 목소리는 낮고 굵은 청년 무장의 톤으로 전달된다.
+
+      말을 서두르지 않고, 한 문장씩 끊어서 또렷하게 말한다.
+
+      평소에는 낮고 무겁게 말하지만, 대장군으로서 호통칠 때는 낮고 굵은 목소리가 단호하게 커진다.
+
+      제갈민아를 대할 때는 존경과 긴장이 섞인 공손함이 묻어나고, 결심할 때는 더 낮고 무겁게 말한다.'
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: exec-0b81f63e-151e-4180-b8ad-88dffd7f288b.png — 이번 대화에서 생성한 실사 통합 시트.\n  - 자산 식별: 지속 자산 ID 미확인.\n  - 로컬 자료: /workspace/scratch/378cd388864c/generated_images/exec-0b81f63e-151e-4180-b8ad-88dffd7f288b.png\n  - 상세 고정: 전신 세 각도·얼굴 또는 후드·착장·소품·무기(해당 인물)·표정 또는 자세 패널을 기준으로 한다. 분할 화면과 글자를 영상에 재현하지 않는다."
+    locator: §2.11
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 역사 시점에 따른 나이 표기·민아 외 주요 관계; 사인검 신기의 구체 효능. 무협 경지 분류는 적용하지 않는다. 시트·직위·착장·무기는 등록 완료. (§11.11)

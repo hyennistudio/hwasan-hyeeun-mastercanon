@@ -1,0 +1,92 @@
+schema_version: 1
+id: no-manseong
+name_ko: 노만성
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - gaebang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 표제 직함
+  value:
+    text: 개방 용두방주
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 출생
+  value:
+    text: 1281년생, 1353년 기준 72세.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직책
+  value:
+    text: 현 개방 용두방주. 차기 용두방주인 후개와 구분한다.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 외형
+  value:
+    text: 마른 체구, 굽은 듯한 어깨, 희끗한 수염, 웃으면 접히는 눈. 누더기를 입지만 움직임은 거추장스럽지 않다.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격
+  value:
+    text: 무시당해도 쉽게 화내지 않고 상대가 더 말하도록 유도한다. 능청으로 책임을 피하되 개방 전체를 어느 편에 묶는 발언은 경계한다.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 회합 태도
+  value:
+    text: 후개의 개인 행보와 개방의 공식 입장을 분리한다. 송현처럼 정면 논박하지 않으며 중립을 유지한다. 후개의 동행 소문 때문에 타 문파의 시선을 의식한다.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스
+  value:
+    text: 70대 남성의 명확한 노년 음성. 약간 높은 중음역에 가늘고 마른 굵기. 성대가 살짝 갈라지는 까슬한 쉰 결, 옅은 비음과 가벼운 숨샘. 말의 시작은 느긋하고 어미는 조금 늘이되 핵심 단어는 또렷하게 끊는다. 짧은 능청스러운 웃음에도 노인의 거친 숨결이 묻어난다. 진지할 때는 웃음기만 거두고 음역을 낮추거나 굵게 바꾸지 않는다. 쇠약한 웅얼거림·과장된 떨림·우렁찬 저음·두꺼운 흉성 금지. 흑봉강괴의 기존 음성은 변경하지 않고 노만성 쪽을 구별한다.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: '대사 참고(확정 사건 대사 아님): “허허, 거지가 밥 한 끼 얻어먹었다고 그 집 식구가 되겠습니까?”'
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터시트
+  value:
+    text: 완성·등록. 1000036600.png / libfile_29fa556426608191a23c3486329bacbe. 회색 상투와 수염, 해진 짙은 장포, 허리의 9결 매듭, 용두 타구봉, 표주박·패·천 신발 고정. 후개와 혼동하지 않는다.
+    locator: §2.38
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

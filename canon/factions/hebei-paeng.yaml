@@ -1,0 +1,42 @@
+schema_version: 1
+id: hebei-paeng
+name_ko: 하북팽가
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids:
+- paeng-horyang
+member_ids:
+- paeng-jeonghyeop
+- paeng-chohyeon
+- paeng-garyeong
+- paeng-horyang
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: '남궁세가: 합비의 오대세가 중심. 하북팽가·제갈세가와 각 개인의 관계는 인물 프로필 참조.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: '오대세가: 남궁세가·제갈세가·하북팽가·사천당가·모용세가.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: 팽가도법은 하북팽가 도법의 총칭. 오호단문도·건곤연환 탈백도·혼원벽력도법을 각 인물의 주력으로 구분한다. 오호단문도의 중국 전통무술·소림팔법 유래 설명은 작가가 제공한 참고 설명이며 이번 편집에서 역사 검증한 사실로 확대하지 않는다.
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

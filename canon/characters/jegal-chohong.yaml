@@ -1,0 +1,73 @@
+schema_version: 1
+id: jegal-chohong
+name_ko: 초홍
+aliases:
+- 제갈초홍
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - jegal
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 1330년생, 현재 23세. 제갈세가 차녀·정실부인 소생, 절정.
+    locator: §2.29
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 령령과 같은 계열
+  value:
+    text: 소천성공·소천성검법·천기미리보, 진법 수련.
+    locator: §2.29
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 령령의 친동생·민아의 이복언니. 모친 사건 당시 세 자매는 모두 어렸고 초홍은 방관.
+    locator: §2.29
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 훗날 마교가 내려올 때 비중 있게 등장. 지금은 프로필 수준만 설정하고 상세 서사를 확대하지 않는다.
+    locator: §2.29
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터시트 완성·등록
+  value:
+    text: 1000035438.png. 외형은 제출된 시트 고정. 미승인 인쇄 프로필은 무시한다. 보이스 상세 미정.
+    locator: §2.29
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 마교 군사·탄금 설정은 작가 직접 제공으로 확정. 시즌7 또는 8 마지막 대전투에 천마와 함께 마교를 이끌고 내려온다. 정확한 시즌·회차·탄금의 세부 무공 효능은 추가 확정하지 않는다. 현재 시즌에 선공개하지 않는다.
+    locator: §2.29
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- '캐릭터시트 완성·등록: 1000035438.png. 외형은 제출된 시트 고정. 미승인 인쇄 프로필은 무시한다. 보이스 상세 미정. (§2.29)'

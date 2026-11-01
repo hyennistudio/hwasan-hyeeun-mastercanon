@@ -1,0 +1,121 @@
+schema_version: 1
+id: yura
+name_ko: 유라 / 현재 민아 신분
+aliases:
+- 채유라
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hongwol-ju-alliance
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 47세 — 유라 현세 기준. 민아의 나이와 혼동하지 않는다.
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: G컵 — 유라의 S.H.E. 원문 기준. 원래 제갈민아의 신체 설정과 구분하며 현재 외형은 민아 시트를 따른다.
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 홍월신교·주원장 연합 / 제갈세가 무공 계승
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 현세 미래전략 실장 / 현재 홍월신녀·주원장 군사
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 절정
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 냉철하고 전략적이며 현세에서도 뛰어난 지략가. 이식 기록 IQ162. 전략·전술·진법·기관진식에 특화한다. 일반적으로 후방에서 지휘하며 초절정 수아와 장기 정면 결투를 하지 않는다.
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 채원과 동갑 오랜 친구. 합비에서 유진·채원을 보았고 혜은이 매화신검임을 안다. 54화 도주 연막·폭탄으로 은밀히 도왔지만 당사자들이 개입을 안다고 확정하지 않는다. 민아 신분으로 주원장과 상호 존대. 주원장은 유라가 아니라 민아를 만난 것으로 인식한다.
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: '내공과 무공에서 발현되는 기운 색은 주홍으로 고정한다.
+
+      제갈세가 무공·팔진도·기관진식. 홍우선의 붉은 깃털·금장·붉은 손잡이·매듭·태슬을 유지한다. 참조영상에서 채택한 운용은 회전 비행·내공 궤적 제어·타격·회수. 거대한 누선을 일격에 파괴하는 위력은 확정하지 않는다.'
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 유라 1기와 현재 민아의 외형은 분리한다. 보이스는 같은 유라의 하나의 고정 보이스. 민아의 얼굴·안경·옷·홍우선을 유라 과거 시트에 혼합하지 않는다. 생성 프롬프트에는 변장 소품을 마스크라고 쓰고 피부 재료를 연상시키는 설명은 하지 않는다. 혜은과 직접 재회하기 전 정체를 공개하지 않는다.
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '깊고 낮은 중저음.
+
+      감정 기복이 거의 없으며, 말을 서두르지 않고 한 글자 한 글자를 또렷하게 발음한다.
+
+      목소리 자체에 오래 쌓인 한과 체념이 서려 있어, 차갑고 어딘가 쓸쓸한 울림이 있다.'
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 유라 1기 / 현세·과거 외형\n  - 자료: 1000033227.png\n  - 자산 식별: libfile_032320a9cf708191bcd1f07361976ba8\n  - 상세 고정: 보랏빛 앞머리·양갈래 땋은 머리, 둥근 안경. 검정 광택 보디수트·등 망사·비대칭 짧은 퍼프/긴소매·체인 초커. 검정 프라다 허벅지 길이 롱부츠 힐. 과거 전용.\n- 민아 활동 신분 / 현재\n  - 자료: 1000033221.png\n  - 자산 식별: libfile_03b96f1f09088191b895c778e8e50296\n  - 상세 고정: 긴 검정 머리·땋아 올린 반묶음·가는 둥근 금속테 안경. 검정 시스루와 금색 용·꽃 자수 긴 예복, 어깨 노출·긴소매·높은 옆트임·금색 허리띠·검정 금색 스트랩 힐. 홍우선 전개·부분 전개·접힌 형태·손잡이·태슬 포함."
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 아미파 쇠퇴와 용봉지회 유진 사건을 이용해 아미를 구파에서 퇴출하고 해남검문을 일좌에 올리려는 계략의 배후. 혈불의 사사혈교에 잠식돼 전원이 혈강시화된 해남파를 내부에 들여, 미래 정마대전 또는 대규모 전쟁에서 구파일방·오대세가를 내부로부터 와해시키려는 계산이다. 사사혈교는 이용·거래 상대이지 민아의 수하로 확정하지 않는다. 11명 S급 여왕은 친자매 같은 관계. 63화 수아를 알아볼 때 반가움이 잠깐 새지만 자신이 놓은 화공 속 가족 같은 인물을 본 충격·걱정이 더 크다. 공격 중지·구출 명령은 추가하지 않는다.
+    locator: §2.6
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 제갈세가 내공·보법·직접 무공의 세부 명칭과 성수; 계승 기술의 구체적 방식; 마스크 착탈·유지 조건; 혜은 외 누가 본래 정체를 아는지; 유라 1기를 쓰는 회상 시점 구분. (§11.6)

@@ -1,0 +1,117 @@
+schema_version: 1
+id: namgung-hyeokryeon
+name_ko: 혁련
+aliases:
+- 남궁혁련
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - namgung
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 출생·나이
+  value:
+    text: 1298년생 / 1353년 기준 연 나이 55세
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 남궁세가
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 가주 / 검신 / 창천신검 / 천하십대고수
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 현묘경 초기
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 단정한 흑발을 빗어넘김. 남색·흑색 장포와 은색 운해 자수. 공석에서 절제된 위엄.
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 남궁휘의 아버지. 현운자와 구정련을 주도한다. 위창해가 혈강시임을 느끼지만 사사혈교라는 배후는 아직 모른다. 아미 퇴출·해남 입성에 유리한 여론을 활용하고 침묵한다.
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: '창궁무애검법 대성. 전용검 창궁검: 곧은 은색 칼날과 운해 문양, 어두운 감은 손잡이, 은금색 세공 호위·검두, 남색·검정 검집의 금속 세공과 청색 검수·구슬. 무공 이름과 실물 검 이름을 구분한다. 창궁대연신공(蒼穹大衍神功)은 대표 내공심법. 천뢰제왕신공(天雷帝王神功)은 가주 또는 후계자 한 명에게 이어주는 비전 내공심법. 창궁무애검법 중 제왕검형 역시 같은 방식의 비기다. 현재 휘에게 두 비기를 전수 중이며 완전한 계승에는 오랜 시간이 걸린다.'
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 최신 통합 시트의 얼굴·빗어넘긴 짧은 흑발·수염 없는 중년 외형·체형을 고정한다. 짙은 남색·흑색 긴 장포와 흰 안깃, 은색 구름·운해·물결 자수, 넓은 소매, 금속 허리 장식과 긴 회색 태슬, 검정 신발을 앞뒤와 사선에서 유지한다. 남궁세가 문장은 구름 속 날개를 펼친 새의 원형 문양이며 등·어깨·장식의 배치를 시트대로 유지한다. 창궁검·검집은 전용 무기 패널을 따른다. 기존 착장 기록과 충돌하면 최신 시트를 우선한다. 분할 화면·인쇄 글자·배경 산수는 실제 장면에 재현하지 않는다.
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '남궁혁련(남성)의 목소리는 낮고 단정한 중저음으로 전달된다.
+
+      공석에서는 짧게 끊는다. 고함치지 않는다. 화가 나도 목소리는 커지지 않고 문장만 날카로워진다.'
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 1000033563.png — 최신 공식 통합 시트.\n  - 자산 식별: libfile_bf4ea63d37708191b28f0dbde8241591\n  - 파일 식별: file_00000000a3b88206b9d2f351bf5b386a\n  - 정면·후면·3/4 전신, 큰 얼굴·헤어 상세, 장포·자수·남궁 문장·허리 장식, 창궁검·검집·표정 패널을 포함한다. 현재 외형의 최우선 기준이며 별도 성장 기수를 임의 지정하지 않는다."
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 현운자의 추대로 구정련 초대 련주를 맡는 방향. 현운자가 무공상 한발 앞서나 두 사람은 겨룰 의사도 없고 실제 대결하지 않는다. 세간에서만 우열을 논한다. 기존 통합 시트 등록 유지, 신규 제작 대기 아님.
+    locator: §2.12
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 추가 무공과 휘에게 전수 중인 두 비기의 현재 진도·성수. 출생·경지·내공·현재 시트는 확정. (§11.12)

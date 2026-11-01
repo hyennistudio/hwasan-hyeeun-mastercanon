@@ -1,0 +1,137 @@
+schema_version: 1
+id: hyeeun
+name_ko: 혜은
+aliases:
+- 이혜은
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hwasan
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 54세 — 현세 기준. 원말 현재 나이의 환산 방식 미확정.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: J컵 — 작가 제공 S.H.E. 원문 기준.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 화산파
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 매화신검 / 송현의 제자
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 현묘경
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 자기 사람들을 먼저 챙기고 리더로서 책임을 다한다. 압도적인 카리스마와 동생들을 대하는 다정함을 함께 지닌다. 긴 풍성한 갈색 웨이브, 큰 갈색 눈, 밝은 피부와 실제 피부결, 도톰한 입술. 얼굴·머리 크기·어깨·허리·골반 비례는 해당 기수 시트대로 고정한다.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 현세에서 겨레의 아내. 유진을 딸처럼, 채원을 친한 동생이자 보좌로 여긴다. 채원·희선과 오래된 친밀한 관계. 후개·윤종과 북해에 도달해 희선과 재회했다. 윤종은 무림 배분상 혜은을 사고라고 부른다. 합비 사건 전모는 북행 당시 알지 못했고 은정의 죽음·아미 봉문은 알고 있다.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 자하음란매화진결'
+  value:
+    text: 현재 7성. 혜은이 옥녀심공과 자하신공을 합쳐 스스로 창안한 무공. 8성 달성 시 혜은 4기로 변화한다.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 칠매검'
+  value:
+    text: 대성
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 이십사수매화검법'
+  value:
+    text: 대성
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: '무공: 매화오행보'
+  value:
+    text: 대성
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 검기·내공 기운은 연분홍으로 고정하며, 검강은 연분홍 매화 계열을 유지한다. 성수는 개별 무공 성취이며 경지와 구분한다. 8성 달성이 곧 별도 경지 상승을 뜻하지는 않는다. 혜은은 화산 매화검수 공통 규격의 매화검을 착용한다(섹션 3 참조). 검 길이·치수·패용 위치는 미확정.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 현재 7성 시점은 3기를 적용한다. 자하음란매화진결 8성 달성 장면을 기준으로 4기로 전환한다. 3기에서는 인물 자신의 오른쪽 분홍 매화핀을 유지하고, 착장을 반드시 미니 원피스로 표기해 허벅지 위 기장을 고정한다. 4기에는 등록된 4기 시트의 긴 기장과 재단을 적용한다. 기수별 의상과 신발을 서로 혼합하지 않는다. 은색 스트랩 힐은 유진의 특징이므로 혜은에게 적용하지 않는다.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 성인 여성의 따뜻하고 부드러운 낮은 톤. 음색은 매끄럽고 은근한 관능이 느껴지며, 묵직하게 가라앉거나 거칠게 긁는 소리 없이 편안한 울림으로 전달된다. 호흡에는 가벼운 숨결이 섞이지만 속삭임으로 흐리지 않고, 자음과 모음은 자연스럽고 또렷하게 발음한다. 말의 속도는 여유 있는 보통 속도보다 조금 느리며, 의미가 바뀌는 지점에 짧은 쉼을 둔다. 문장 끝은 부드럽게 내려놓되 마지막 음절까지 분명하게 들린다. 평소에는 섹시하고 여유로운 말투에 사람을 안심시키는 온기가 배어 있다. 유진·채원 등 동생들을 대할 때는 미소가 묻어나는 다정한 어조로 말하며, 걱정하거나 달랠 때도 기본 음색과 선명한 발음을 유지한다. 장난을 칠 때는 끝음에 가벼운 웃음기를 얹고, 그리움이나 슬픔이 실릴 때는 짧은 침묵과 조금 느려지는 호흡으로 감정을 표현한다. 결심하거나 상대를 경고할 때는 숨결을 줄이고 발음과 끝맺음을 단단하게 세우며, 음역을 과하게 낮추거나 큰 소리로 위압하지 않는다. 전투 중 짧은 외침도 같은 인물의 부드러운 저음 바탕을 유지하면서 힘 있고 또렷하게 전달한다.
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 1기 / 시즌1\n  - 자료: 1000033169.png\n  - 자산 식별: libfile_2b2b84dd185881919c0b651807e8e805\n  - 상세 고정: 긴 갈색 웨이브. 누드 베이지 딥 V 랩형 긴소매 미니 원피스, 허리와 상체 셔링, 허벅지 위 밑단. 맨다리. 검정 발렌티노 계열 스터드 스트랩 포인티드 토 하이힐. 과거 장면에만 적용.\n- 2기 / 시즌2\n  - 자료: 1000033171.png\n  - 자산 식별: libfile_7c9f9372c4648191ba6151fe5458c041\n  - 상세 고정: 갈색 웨이브·분홍 매화핀·드롭 귀걸이. 검정 바탕 분홍 매화·가지 자수 미니 원피스, 흰 옆판, 목깃과 앞 가슴 트임, 긴소매. 검정 가터·레이스 상단 망사 스타킹과 검정 발렌티노 스터드 스트랩 힐. 과거 장면에만 적용.\n- 3기 / 시즌3 현재\n  - 자료: 1000033131(2).png\n  - 자산 식별: libfile_e7a0252437e081919237a198b215de72\n  - 상세 고정: 갈색 볼륨 웨이브·오른쪽 매화핀. 붉은 매화 자수 오프숄더 긴소매 미니 원피스. 앞 교차 끈·목 뒤 매듭·옆면 검정 망사, 허벅지 위 기장. 검정 가터·망사 스타킹, 검정 발렌티노 스터드 스트랩 하이힐. 정면·후면·사선·얼굴·자수·끈·신발 상세를 시트대로 유지.\n- 4기 / 자하음란매화진결 8성 달성 이후\n  - 자료: 1000033178.png — 이번에 작가가 첨부한 4기 통합 시트.\n  - 자산 식별: libfile_22c0b3c3f47081919be033530b4d4aec\n  - 첨부 식별: file_0000000078708230971a00361e3c2c1e\n  - 적용 조건: 8성 달성 이전에는 사용하지 않는다. 등장 회차·달성 사건은 아직 미확정.\n  - 상세 고정: 긴 밝은 갈색 웨이브와 시트의 앞머리·얼굴을 유지한다. 흰색 바탕 붉은 매화·가지 자수, 목깃의 붉은 매듭, 앞 트임,\
+      \ 등판 트임, 긴소매, 높은 옆트임과 발목까지 이어지는 얇은 긴 겉감의 원피스. 검정 스터드 스트랩 포인티드 토 발렌티노 하이힐. 정면·후면·사선·얼굴·헤어·귀걸이·자수·재단·신발을 해당 시트 그대로 적용한다. 3기의 붉은 미니 원피스·매화핀·가터·망사 스타킹을 섞지 않는다.\n  - 시트에 인쇄된 추정 나이·직업·신체 치수는 기존 확정 프로필을 변경하지 않는다."
+    locator: §2.1
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 원말 현재 나이와 외형 나이의 기준; 매화검·검집의 문양 색·치수·패용 위치; 자하음란매화진결 8성 달성 사건·회차; 북해 시점에서 합비 사건을 새로 전달받은 범위. (§11.1)

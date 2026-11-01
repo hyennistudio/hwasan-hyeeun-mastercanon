@@ -1,0 +1,99 @@
+schema_version: 1
+id: baegu
+name_ko: 백우
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - sorim
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 표제 직함
+  value:
+    text: 소림사 제33대 방장
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 출생
+  value:
+    text: 1277년생, 1353년 기준 76세.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 생사경. 노화청정·반로환동·환골탈태를 모두 경험했다.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 외형
+  value:
+    text: 실제 76세와 달리 40대 중반의 삭발·수염 없는 얼굴, 날렵하고 단단한 체형. 소림방장답지 않은 익살스럽고 우스꽝스러운 인상. 비만으로 만들지 않는다. 황금빛 승복·자주색 금문 가사·굵은 염주·장식 고리를 최신 시트대로 고정한다.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격
+  value:
+    text: 호탕하고 장난기 있으며 익살스럽지만 속은 냉철하고 대세를 꿰뚫는다. 중대한 일에는 단호하고 제자와 무림인을 넉넉하게 품는다. 우정과 문파의 책임을 분리한다. 송현을 존중해 직접 찾아오지만 모든 선택을 무조건 받아주지는 않는다.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 입장·사건
+  value:
+    text: 구정련 결성 후 화산을 직접 방문한다. 남궁·오대세가·무당의 야욕을 알고 있으나 소림도 정파의 중심으로서 아무것도 하지 않을 수 없다는 부담을 지닌다. 지난 관계를 바탕으로 송현에게 재고를 권하고 내려간다. 소림이 화산 편에 참전한다고 확대하지 않는다.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스
+  value:
+    text: 온화하면서 힘 있는 중저음, 풍성하고 둥근 자연스러운 흉성. 평소 구수하고 유쾌하며 진지할 때 웃음기를 거두고 낮고 단단하게 말한다. 거친 쇳소리 없이 문장을 온전히 끝내고 여유 있게 쉰다. 설교조 웅얼거림·불필요한 불호 반복 금지.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: '대사 참고(확정 사건 대사 아님): “화산은 소림의 적이 아닙니다. 그러니 장문인께서도, 소림이 처한 자리를 한 번은 헤아려주십시오.”'
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터시트
+  value:
+    text: 완성·등록. 1000036602.png / libfile_b1b824818940819182a61d7b122ae322. 작가가 백우 시트의 설정 전체를 맞다고 확인했으므로 제33대 방장·성격·보이스까지 채택한다. 다른 시트의 인쇄 설정을 자동 채택하는 예외 확장 금지.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 본문
+  value:
+    text: 위 네 보이스는 노만성의 능청, 당경악의 날 선 추궁, 위공렬의 평탄함, 백우의 온화한 무게로 구분한다. 기존 인물의 확정 보이스를 덮어쓰지 않는다.
+    locator: §2.41
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

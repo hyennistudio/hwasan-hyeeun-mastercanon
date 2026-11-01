@@ -1,0 +1,24 @@
+schema_version: 1
+id: haomun
+name_ko: 하오문
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids: []
+member_ids: []
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: 군벌과 무림의 조직·지휘를 분리한다. 민아 휘하 하오문 십비는 무림 정보·호위·암살 조직, 함대 경보와 군사 전령 조직이 아니다. 군사 보고는 수군·군영 또는 현장 경보로 전달한다. 십비 인원·이름·외형은 미확정.
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 십비 인원·이름·외형은 미확정. (§3)

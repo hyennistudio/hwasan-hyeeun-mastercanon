@@ -1,0 +1,36 @@
+schema_version: 1
+id: null
+name_ko: null
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations: []
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+# - target_id: null
+#   relation: null
+#   status: draft
+#   source_ids: []
+facts: []
+# - field: null
+#   value: null
+#   status: draft
+#   source_ids: []
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

@@ -1,0 +1,271 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "character",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "name_ko",
+    "aliases",
+    "universe",
+    "record_status",
+    "profile",
+    "appearance",
+    "martial_arts",
+    "relationships",
+    "facts",
+    "approval",
+    "open_questions"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9_-]*$"
+    },
+    "name_ko": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "universe": {
+      "const": "hwasan-hyeeun"
+    },
+    "record_status": {
+      "enum": [
+        "draft",
+        "confirmed",
+        "disputed",
+        "superseded"
+      ]
+    },
+    "profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "reference_year",
+        "birth_year",
+        "age",
+        "age_basis",
+        "apparent_age",
+        "affiliations",
+        "titles"
+      ],
+      "properties": {
+        "reference_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "birth_year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "age": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "age_basis": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "apparent_age": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "affiliations": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "titles": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "appearance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "description",
+        "reference_asset_ids"
+      ],
+      "properties": {
+        "description": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reference_asset_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "martial_arts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "realm",
+        "techniques",
+        "weapons"
+      ],
+      "properties": {
+        "realm": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "techniques": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "weapons": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "target_id",
+          "relation",
+          "status",
+          "source_ids"
+        ],
+        "properties": {
+          "target_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "relation": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "enum": [
+              "draft",
+              "confirmed",
+              "disputed",
+              "superseded"
+            ]
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    "facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "field",
+          "value",
+          "status",
+          "source_ids"
+        ],
+        "properties": {
+          "field": {
+            "type": "string",
+            "minLength": 1
+          },
+          "value": {},
+          "status": {
+            "enum": [
+              "draft",
+              "confirmed",
+              "disputed",
+              "superseded"
+            ]
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    "approval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "approved_by",
+        "approved_at",
+        "source_ids"
+      ],
+      "properties": {
+        "approved_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "approved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "open_questions": {
+      "type": "array"
+    }
+  }
+}

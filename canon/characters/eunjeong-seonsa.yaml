@@ -1,0 +1,121 @@
+schema_version: 1
+id: eunjeong-seonsa
+name_ko: 은정선사
+aliases:
+- 본명 은정
+- 법명 백화
+- 백화신니
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - ami
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 생몰년·나이
+  value:
+    text: 1245년 출생, 1351년 사망. 사망 연도 기준 연 나이 106세. 생월일 미정
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 아미파
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 은정선사 / 백화신니 / 아미파 2대 장문 / 생전 천하삼검·천하십대고수
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 생사경
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 유진의 성장과 스승의 가르침을 보여주는 비중 있는 조연이며 회상 장면에 자주 등장한다. 새 시트의 차분하고 단아한 성인 여성 외형, 밝은 피부·큰 갈색 눈·정돈된 검정 올림머리와 섬세한 얼굴 비례를 유지한다. 표정은 평온함·온화함·엄숙함·사색함·은은한 미소를 시트 기준으로 적용한다. 외형의 차분함을 이유로 기존 밝고 높은 보이스를 낮은 노년 음색으로 바꾸지 않는다.
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: '20화 아미산의 은거 암자에서 후개가 데려온 유진을 보고 천음색체임을 알아차린다. 그때까지 제자를 받아본 적이 없었으며 유진의 몸과 그릇에 개인적인 흥미를 느껴 제자로 삼겠다고 선언했다. 순수한 구제나 후계자 양성만을 동기로 덧씌우지 않는다. 작가 설명상 원문의 관련 방식은 채음보양술 계열의 방중술이다. 영상에 표현하지 않은 구체 행위나 아미구음진결 수련 자체가 치료법이라는 설정을 임의로 추가하지 않는다.
+
+      아미구양신공을 보유하고 있었으며 곽천웅은 이 사실을 실제로 알고 있었다. 사후 유진이 자연스럽게 전수받도록 자신의 무덤에 진법을 마련했다. 시즌1 마지막 입적 소식과 유진의 암동 폐관으로 이어진다.
+
+      유진의 스승, 유일한 직전제자로 받아 치료·전수. 1351년 입적. 실제 입적과 혜은·유진의 소식 인지는 시점이 다르다. 36화 폐관 진입, 37화 음양합일·출관은 4.1 참조.'
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 아미구음진결, 비상련화·대라수미검 창안. 생전 비상련화는 흰 이기어검. 아미자 전수 기록.
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 현재 생환시키지 않으며 회상과 기록에만 등장한다. 회상에서도 동일한 얼굴·머리·체형·의상 재단·자수·허리 장식·비녀·신발을 최신 통합 시트대로 고정한다. 100세 이상이라는 생전 나이를 이유로 노년 얼굴이나 백발을 임의 추가하지 않는다. 다른 아미 인물, 특히 보현신니의 얼굴·착장과 혼합하지 않는다. 시트에 무기가 없으므로 인물 컷에 검을 자동 추가하지 않으며, 무공 연출에 필요한 병장기는 별도 확정된 설정을 따른다. 시트의 분할 구성·라벨·표정 패널을 영상에 재현하지 않는다. 지정된 회상 시점의 정보만 말하며 현재 사건을 아는 대사를 넣지 않는다.
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 은정선사(여성)의 대사는 밝고 높은 톤에 살짝 콧소리가 섞여 있으며, 자음이 부드럽게 녹아내리는 듯한 귀여운 립싱이 강하게 드러나고, 문장 끝마다 모음이 길게 늘어나며 상승하는 애교 억양이 두드러지는 톤으로 전달된다.
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 생전 회상용 통합 시트 / 기수 미지정\n  - 자료: **1000033535.png** — 작가 지정 은정선사(백화신니) 최신 시트.\n  - 자산 식별: libfile_4fe280c8e5d88191a079ab434233348f\n  - 파일 식별: file_0000000048448207b295612f437202c2\n  - 얼굴·헤어: 우측 큰 얼굴 상세를 정체성 기준으로 한다. 검정 올림머리·높은 머리 매듭, 청옥색 보석을 넣은 금속 머리장식, 가로 비녀와 매달린 세공 장식을 고정한다.\n  - 착장: 아이보리·흰색 바탕에 옅은 하늘빛 꽃과 잎 자수의 긴 겹옷. 넓고 긴 소매, 앞깃과 안쪽 재단, 아이보리 허리띠·금속 꽃 장식, 옅은 하늘빛 긴 안자락과 바닥까지 이어지는 겉자락을 정면·후면·사선대로 유지한다.\n  - 신발: 아이보리색 포인티드 토 하이힐, 옅은 청색 꽃 자수와 금색 계열 세공 장식. 시트의 앞·옆·뒤 형태를 고정하며 현대 브랜드나 다른 인물의 스트랩 힐로 바꾸지 않는다.\n  - 레이아웃: 정면·후면·사선 전신, 큰 얼굴 상세, 눈·입·피부·머리장식·비녀·원단·소매·허리·신발 확대, 하단 다섯 표정. 무기 패널은 없다."
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 은정선사와 백화신니는 동일 인물. 본명은 은정, 법명은 백화다. 작품 내 호칭에서 선사는 은거 기인으로서 붙는 호칭이며 본명의 일부가 아니다. 신니는 여승을 극존칭하는 명칭으로 사태보다 높여 부르는 호칭이다. 백화신니는 법명 백화에 신니를 붙인 것이다. 유진은 이 스승의 가르침 덕분에 아미구양신공·아미구음진결을 음양합일했다. 기존 생전 회상용 시트·보이스 유지.
+    locator: §2.16
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 아미자 외형·운용, 회상 시트 기수 구분. 1245~1351년·생사경 확정. (§11.16)

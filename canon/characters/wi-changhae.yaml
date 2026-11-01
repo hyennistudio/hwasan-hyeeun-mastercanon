@@ -1,0 +1,108 @@
+schema_version: 1
+id: wi-changhae
+name_ko: 위창해
+aliases:
+- 위창해
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - haenam
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 해남검문
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 소가주 / 장문인의 아들
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 생전 경지 미확정
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 혈강시 공격은 치솟는 붉은 모래.
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 53화 유진과 비무에서 사망. 위청하 등은 오기.
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 생전 무공·성수 미확정
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 사망 후 생환·재기동 없음. 54화는 감긴 눈·힘 빠진 상태만.
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 미확정 — 기존 전문을 확인하거나 작가 답변으로 등록한다.
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 통합 시트 또는 원본 연결 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 기존 제작 이미지가 있다면 최종 자료를 연결한다. 새 이미지가 생성됐다고 선언하지 않는다."
+    locator: §2.22
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 생전 나이·경지·무공; 회상용 외형·시트·보이스. 친부이자 해남 장문인은 위공렬로 확정. (§11.22)
