@@ -1,0 +1,16 @@
+schema_version: 1
+id: null
+name_ko: null
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids: []
+member_ids: []
+territory: null
+flag_asset_ids: []
+facts: []
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []
