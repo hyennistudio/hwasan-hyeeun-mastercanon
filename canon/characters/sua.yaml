@@ -1,0 +1,120 @@
+schema_version: 1
+id: sua
+name_ko: 수아
+aliases:
+- 민수아
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations: []
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 26세 — 현세 기준. 원말 나이 환산 미확정.
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: I컵 — 작가 제공 S.H.E. 원문 기준.
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 방국진 진영
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 해도운량부만호 / 세력 내 2인자
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 초절정
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 귀여운 인상과 청초하고 높은 목소리, 고집과 광적인 화력 집착의 대비. 현대 M60 전투 경험에서 오는 화력 선호를 무림의 강기 연발석궁으로 표현한다. 현대 칭호 광기의 여왕은 현세 설정이며 무림 병사의 호칭이 아니다.
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 회귀 뒤 3년간 방국진 측에 있었다. 다른 회귀 멤버의 사정은 모른다. 민아를 유라로 알아보지 못한다. 이번 수상 기습은 기존 예상을 넘어선 수아의 전술이며 방국진에 대한 무단 권한 위반을 새로 만들지 않는다.
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: '내공과 무공에서 발현되는 기운 색은 녹색으로 고정한다.
+
+      자신이 개조한 연발석궁에 강기를 담아 연발 응사. 손으로 잠금을 해제하고 활대를 접어 고정해 근접 창 형태로 운용한다. 창법은 양가창법 중 양가이화창이다. 양가육합팔모창법이 아니다. 63화에서 경공과 결합한 호쾌한 고속 돌파를 연출한다. 세부 내공명·보법·개별 초식과 성수는 미확정. 실제 제작 설계가 아닌 무협 소품. 기함은 개인 외형 시트가 아닌 진강 자산 섹션의 3층 누선.'
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 짙은 갈색 턱선 길이 웨이브 단발, 시트 위치 은빛 핀, 작은 드롭 귀걸이와 검정 레이스 초커. 수아 개인 금색 자수를 방국진 병사 갑주로 덮어쓰지 않는다. 사격/창 형태는 같은 한 자루 무기의 물리적 전환이다.
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '수아(여성)의 목소리는 굉장히 높고 명랑한 하이톤으로 전달된다.
+
+      까불고 장난치는 말투가 기본이며, 문장이 가볍고 빨리 튄다.
+
+      고집이 세고 우직하다. 하이톤과 달리 말은 안 꺾인다. 감정이 커져도 톤은 내려가지 않고 더 높아진다.'
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 1기 / 현재\n  - 자료: 1000033232.png\n  - 자산 식별: libfile_d1e7960ee57c81918966c1c0877e0c44\n  - 상세 고정: 검정 레이스·교차 스트랩·가터·망사 스타킹. 짙은 붉은 금색 용·구름 자수 장포, 옥 고리와 태슬. 검정·금색 별과 달 장식 샤넬 전용 힐. 연발석궁의 목재·금속 몸체·탄창·사격 형태·접힌 활과 창 형태 상세 포함."
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: '1350년 회귀 직후 쓰러진 수아를 방국진 진영 장군 양학경이 데려와 딸처럼 보호하며 양가이화창을 가르쳤다. 양학경은 1351년 전사. 이 인물은 전수 인과를 위한 배경 인물로 죽음에 복수·별도 감정 서사를 붙이지 않는다. 수아와 양문익은 서로 모른다. 63화 상륙 직전 석궁을 창으로 전환: 애니메이션·트랜스포머식 짧고 강렬한 기계 변형과 체결음 후 경공 원테이크 돌입. 무기 전환의 시각적 연출 승인과 속도 VFX 예외를 구분하고, 속도 VFX는 총감독 승인 장면에서만 적용한다.'
+    locator: §2.5
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 내공·경공·보법 명칭과 성수; 방국진과 개인 호칭; 원말 외형 나이. 양학경에 의한 회귀 직후 구조·양가이화창 전수, 양학경 1351년 전사는 확정. (§11.5)

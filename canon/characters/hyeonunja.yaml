@@ -1,0 +1,117 @@
+schema_version: 1
+id: hyeonunja
+name_ko: 현운자
+aliases:
+- 현운자 — 본명 미확정
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - mudang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 출생·나이
+  value:
+    text: 1296년생 / 1353년 기준 연 나이 57세. 작가 채택 확정
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 무당파
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 무당파 태상장로 / 검존 / 태극일검
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 현묘경 중기
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 검은 장발과 높은 상투·옆으로 떨어지는 잔머리, 수염 없는 성숙한 얼굴. 백색·옅은 하늘빛 겹도복. 고고하고 절제된 위엄, 감정을 억제한다. 이전 백발 지침은 최신 시트로 교체한다.
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 혁련과 구정련 결성을 주도한다. 위창해가 혈강시임을 느끼지만 사사혈교라는 배후는 아직 모른다. 아미 퇴출·해남 추대에 유리한 여론을 활용하고 침묵한다.
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 태극혜검 대성. 무당파 장삼봉 진인의 실질적인 후예라는 설정을 유지하되 직계 혈연이나 정확한 사승 대수를 임의로 확정하지 않는다. 무기 패널의 태극혜검은 실물 검 외형 기준으로 등록한다. 검법과 실물 무기를 문맥에서 구분하며 동일 명칭의 유래는 미확정이다. 곧은 은색 칼날의 구름 문양, 검정 손잡이·검집, 은색 세공과 흑백 태극 장식, 청옥색 호위 장식을 시트대로 고정한다. 내공심법·추가 무공은 미확정. 경지는 현묘경 중기로 확정.
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 최신 시트의 얼굴·검은 장발·높은 상투와 태극 머리 장식을 고정한다. 흰 교임 안옷, 옅은 하늘빛 긴 겉도복, 흰색·은색 구름 자수와 넓고 긴 소매, 빙청 허리띠와 태극 금속 버클, 등 중앙 원형 태극 문양, 밝은 색 신발을 시트대로 유지한다. 검·검집의 태극 장식과 재질을 다른 문파 무기와 혼합하지 않는다. 백발로 되돌리지 않는다. 시트의 산중 건물·좌정 예시를 모든 장면의 고정 배경·자세로 강제하지 않는다. 분할 화면·글자를 실제 장면에 재현하지 않는다.
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '현운자(남성)의 목소리는 맑고 단정한 중음으로 전달된다.
+
+      말은 또박또박하되 서두르지 않으며, 감정을 누르고 짧게 끊는다. 화가 나도 목소리는 커지지 않고, 문장만 날카로워진다.'
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 1000033567.png — 최신 공식 통합 시트.\n  - 자산 식별: libfile_20b5e4289dd08191bbc3ab983bea42a9\n  - 파일 식별: file_00000000ebb882069eee578a5b3103b2\n  - 정면·3/4·후면 전신, 얼굴·상투 장식·도복·허리·태극 문양, 실물 검과 검집의 전체·세부, 표정 및 좌정 예시를 포함한다. 현재 외형의 최우선 기준이며 별도 성장 기수를 임의 지정하지 않는다."
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 백화신니 사후 현운자를 사실상 정파 일인자로 설명했던 이전 비교는 백우 생사경 확정 전 기록이다. 백우를 포함한 절대 서열을 현운자 1위로 단정하지 않는다. 검신 혁련과 검존 현운자의 검도 양대산맥 구도와 현운자 우위는 유지하며, 백우와의 직접 우열·대결 결과는 미확정. 앞에 나서기를 싫어하여 혁련을 구정련 초대 련주로 추대한다. 사형 현정자가 현 무당파 장문인이다. 기존 통합 시트 등록 유지. 시트에 직위 문구가 없으므로 직위 정정을 위한 시트 편집은 불필요. 순양무극공을 주력 내공, 태극권·면장·제운종을 보조 무공으로 두는 안은 감독 제안이며 미채택. 태극혜검 대성만 기존 확정. 순양무극공 전승 범위도 미확정.
+    locator: §2.13
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 내공·보조 무공 제안 채택 여부와 전승 범위; 본명·장삼봉과 사승 관계. 태상장로·현묘경 중기·태극혜검 대성·현재 시트는 확정. (§11.13)

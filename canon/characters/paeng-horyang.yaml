@@ -1,0 +1,79 @@
+schema_version: 1
+id: paeng-horyang
+name_ko: 팽호량
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hebei-paeng
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 하북팽가 현 가주, 정협·초현의 친부, 가령의 양부.
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 감독 보완 프로필
+  value:
+    text: 1301년생·현재 52세, 혼원벽력신공·혼원벽력도법 대성, 오호단문도·건곤연환 탈백도에 정통.
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 조화경은 작가 승인. 조화경 중기는 후속 감독 제안으로 아직 명시적 승인 미확인.
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: '감독 보완 성격·외형·보이스: 호방하고 엄격하며 책임을 중시, 기본 수련을 철저히 지도. 건장한 체격·굵은 눈썹·짧은 수염, 흑색·짙은 갈색 무복과 절제된 호랑이 문양. 두꺼운 중저음, 느긋하고 명료하며 호통은 짧게 힘을 줌.'
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 열 살 전부터 무재로 소문난 가령을 눈여겨보고 양녀로 삼겠다고 공언. 살수업 묵인과 야림의 팽가 음지 업무 수행이라는 거래가 있다. 양부의 애정을 전부 거짓으로 단정하지 않는다.
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터시트 완성·등록
+  value:
+    text: 1000035446.png. 외형은 완성 시트 고정. 세부 서열 미정.
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 첫 회합에서 딸들의 중상을 알리며 화산에 대한 비난에 힘을 보탠다. 보이스는 굵고 거친 중저음·가슴 울림, 분노가 드러나는 짧은 어절. 기존 승인 음성의 정체성은 보존한다.
+    locator: §2.33
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- '캐릭터시트 완성·등록: 1000035446.png. 외형은 완성 시트 고정. 세부 서열 미정. (§2.33)'

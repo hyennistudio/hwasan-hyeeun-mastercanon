@@ -1,0 +1,92 @@
+schema_version: 1
+id: wi-gongryeol
+name_ko: 위공렬
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - haenam
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 표제 직함
+  value:
+    text: 해남 장문인
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 출생
+  value:
+    text: 1290년생, 1353년 기준 63세.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직책·정체
+  value:
+    text: 해남파 장문인, 혈강시. 위창해의 친부이며 위창해는 장남이다. 위창해는 시즌2 마지막에 유진에게 사망했고 회합에 나오지 않는다. 첫 회합의 해남 참석자는 위공렬이다.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 외형
+  value:
+    text: 곧은 자세, 가지런한 머리와 수염, 최신 시트의 남색 파도 문양 장포·허리 장식·머리 장식·검집. 병색·괴물 같은 특징을 드러내지 않는다.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 태도
+  value:
+    text: 유리한 논쟁에도 먼저 흥분하지 않는다. 다른 문파가 아미를 공격하도록 두고 필요한 순간에만 명분을 보탠다.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스
+  value:
+    text: 울림이 적은 평평한 중저음. 정확한 발음, 일정한 속도, 작은 감정 기복. 전자음·괴물음·이중 목소리 금지.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 혈강시 연출
+  value:
+    text: 정상적인 장문인의 풍모를 유지한다. 아주 미세한 기운만 암시하며 붉게 빛나는 눈·검은 혈관·노골적인 혈기 효과로 정체를 폭로하지 않는다. 참석자 전원이 정체를 안다고 확대하지 않는다.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: '대사 참고(확정 사건 대사 아님): “해남은 정파의 뜻을 따르겠습니다. 자리를 논하기 전에, 질서부터 바로 세워야겠지요.”'
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터시트
+  value:
+    text: 완성·등록. 1000036604.png / libfile_145bf2c2b18081918b37435d4383a15d. 시트의 미승인 성격·무역로 지배 설명은 자동 채택하지 않는다.
+    locator: §2.40
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

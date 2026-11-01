@@ -1,0 +1,111 @@
+schema_version: 1
+id: hyeolbul
+name_ko: 혈불
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - sasa-hyeolgyo
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 사사혈교
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 사사혈교 교주 대리 / 교주를 제외한 실질적 지배자
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 미지 — 의도적으로 공개하지 않는다.
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 해진 검붉은 후드 장포, 얼굴 가림·붉은 눈. 금지된 무공에 손댄 악중의 악. 정체·무공 수위·실제 얼굴 모두 가늠할 수 없는 미지의 인물. 불길함을 유지하고 새로운 경지나 얼굴을 임의로 공개하지 않는다.
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 겨레를 데리고 있고 혜은은 이를 안다. 17~18화 만마혈전 사건의 당사자로 유진을 알아본다. 18화 겨레를 데리고 사라지려 하며 만마혈전을 무너뜨리고, 혈혼사에 중독된 유진을 미끼로 남긴다. 곽자흥 암살 실행.
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 혈혼사·혈강시 관련 운용. 세부 기술·원리 미확정.
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 얼굴을 임의 공개하지 않는다. 해남 혈강시와 북해 간계 배후.
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '혈불의 목소리는 사람의 성대가 아니다. 바닥까지 깔리는 아주 낮은 저음이 후드 안에서 크게 울린다.
+
+      말은 느리고 갈라지며, 숨결처럼 깔리는 악마의 목소리로만 전달된다.
+
+      웃음도 같은 낮은 악마의 저음이다.'
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: exec-bb0593df-acc3-4a2f-8297-c149733bea63.png — 이번 대화에서 생성한 실사 통합 시트.\n  - 자산 식별: 지속 자산 ID 미확인.\n  - 로컬 자료: /workspace/scratch/378cd388864c/generated_images/exec-bb0593df-acc3-4a2f-8297-c149733bea63.png\n  - 상세 고정: 전신 세 각도·얼굴 또는 후드·착장·소품·무기(해당 인물)·표정 또는 자세 패널을 기준으로 한다. 분할 화면과 글자를 영상에 재현하지 않는다."
+    locator: §2.14
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 본명 공개 여부·나이·경지·교내 직위; 무공/도구·혈혼사 상세; 기수별 시트. (§11.14)

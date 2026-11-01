@@ -1,0 +1,41 @@
+schema_version: 1
+id: ami
+name_ko: 아미파
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids:
+- bohyeon-sinni
+member_ids:
+- yujin
+- eunjeong-seonsa
+- bohyeon-sinni
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: '아미: 현재 구파일방 소속. 2대 은정 입적, 3대 장문은 미정, 현재 4대 보현. 스스로 문을 닫은 봉문과 정파가 자리를 빼앗는 축출을 구분한다.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: '해남: 혈강시·혈혼사의 사사혈교 교두보. 54화부터 구파 입성을 추진하는 흐름이며, 현시점 아미파 축출과 정식 교체는 미완료. 혈불이 조종 중이다. 혁련·현운자는 위창해가 혈강시임을 느끼지만 배후가 사사혈교라는 사실은 아직 모른다. 혈강시 감지·침묵과 배후 인지를 구분한다.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: '구파: 소림파·무당파·화산파·아미파·청성파·점창파·공동파·곤륜파·종남파.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

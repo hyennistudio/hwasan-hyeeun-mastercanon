@@ -1,0 +1,86 @@
+schema_version: 1
+id: dang-gyeongak
+name_ko: 당경악
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - sacheon-dang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 표제 직함
+  value:
+    text: 사천당가주
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 출생
+  value:
+    text: 1295년생, 1353년 기준 58세.
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 외형
+  value:
+    text: 좁고 긴 얼굴, 얇게 다문 입술, 단정한 수염. 짙은 녹색·먹색 의복. 과장된 독무기 장식보다 빈틈없는 차림.
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격
+  value:
+    text: 분노를 오래 기억하며 답할 틈을 주지 않고 추궁한다.
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 회합 태도
+  value:
+    text: 당붕우·당륜의 죽음을 매화신검의 짓으로 지목하며, 화산의 보호 행위도 한패라는 주장으로 연결한다. 이는 당경악의 발언이며 객관적 판결로 표현하지 않는다. 두 사망자와의 구체적 친족 관계는 미정이다.
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스
+  value:
+    text: 좁고 단단한 중음, 쇳소리가 섞인 날카로운 발음. 자음이 강하고 어미를 베듯 끊는다. 격앙되면 굵은 고함보다 말의 속도와 날이 올라간다.
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: '대사 참고(확정 사건 대사 아님): “당붕우와 당륜은 죽었소. 그런데 그들과 어울리는 자들을 화산이 거두고 있다? 그걸 우연이라 하겠소?”'
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터시트
+  value:
+    text: 완성·등록. 1000036601.png / libfile_f26fb1525860819180a5cfcf9b3403a5. 흑색·짙은 녹색 의복, 직조 문양, 허리 수납구·암기와 독구 디자인 고정.
+    locator: §2.39
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- '회합 태도: 당붕우·당륜의 죽음을 매화신검의 짓으로 지목하며, 화산의 보호 행위도 한패라는 주장으로 연결한다. 이는 당경악의 발언이며 객관적 판결로 표현하지 않는다. 두 사망자와의 구체적 친족 관계는 미정이다. (§2.39)'

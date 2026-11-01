@@ -1,0 +1,57 @@
+schema_version: 1
+id: yang-munik
+name_ko: 양문익
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations: []
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 1332년생·현재 21세, 양가장 소장주, 초절정.
+    locator: §2.31
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 양가이화창의 정통 계승자. 양가육합팔모창법 9성.
+    locator: §2.31
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 양가육합팔모창법은 직계·가주 계통의 비전절기이며 수아의 무공과 구분한다.
+    locator: §2.31
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 양학경의 조카. 수아와 서로 모르는 사이. 성격·외형·보이스 미정.
+    locator: §2.31
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 양학경의 조카. 수아와 서로 모르는 사이. 성격·외형·보이스 미정. (§2.31)

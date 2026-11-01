@@ -1,0 +1,30 @@
+schema_version: 1
+id: gujeongryeon
+name_ko: 구정련
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids: []
+member_ids: []
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: '구정련: 혁련·현운자가 흑도척결을 앞세워 구파일방·오대세가·나머지 정파를 결집한다. 민아는 적들이 모이는 것을 반기고 주원장을 이용할 계산을 한다. 창천신검이 유진을 무력으로 꺾는 안은 폐기, 핵심은 정치적 고립이다.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: 백화신니 생전 천하삼검, 사후 검신 남궁혁련과 검존 현운자의 양대산맥. 현운자가 앞서지만 대결 의사·실제 대결 없음. 구정련 초대 련주는 현운자가 혁련을 추대한다.
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

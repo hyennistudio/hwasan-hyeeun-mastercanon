@@ -1,0 +1,59 @@
+schema_version: 1
+id: dan-seojin
+name_ko: 단서진
+aliases:
+- 段瑞震
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - jeomchang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 유실된 옛 이름의 복원이 아니라 새로 작명한 점창파 후기지수.
+    locator: §2.30
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 1330년생·현재 23세, 초절정, 사일검법 대성.
+    locator: §2.30
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 자신감이 강하며 승부욕을 드러내는 직선적인 검객. 성격 작가 채택.
+    locator: §2.30
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 유진 제외 휘·양문익과 함께 후기지수 최상위 세 명. 세부 서열 미정.
+    locator: §2.30
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 유진 제외 휘·양문익과 함께 후기지수 최상위 세 명. 세부 서열 미정. (§2.30)

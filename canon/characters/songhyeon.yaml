@@ -1,0 +1,110 @@
+schema_version: 1
+id: songhyeon
+name_ko: 송현
+aliases:
+- 송현 — 전체 본명 별도 미확정
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hwasan
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정 — 중년 외형과 실제 나이를 구분.
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 화산파
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 장문인 / 혜은의 스승
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 미확정
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 절제된 위엄 속에 담백한 온기와 포용. 검은 머리를 뒤로 빗어넘긴 중년 외형, 넓고 각진 얼굴·굵은 눈썹·깊은 미간 주름·수염 없는 얼굴.
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 혜은의 동생인 채원·유진의 배움 요청을 흔쾌히 받아들인다. 채원에게만 옥녀심공과 암향표를 전수하고, 기존 내공심법을 완성한 유진에게는 무공 심득의 묘리를 가르친다. 합비 사건과 채원의 사파 지위를 모르고 허락한 것이 아니다. 윤종과 직접 사제관계는 별도 미확정.
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: '전수 대상·방식: 채원에게 옥녀심공·암향표를 전수한다. 유진에게는 무공 심득의 묘리를 지도한다. 각 전수 무공의 성수·세부 효과·기간은 미확정. 61화 호흡·회수 교정은 연출안이며 새 효능 선언이 아니다. 애병은 화산 장문인 전용 매화검. 검정 검집에 금색 금속 장식과 매화, 곧은 은색 칼날에 매화 문양, 어두운 감은 손잡이·금색 호위·원형 검두·붉은 검수 장식을 최신 시트 기준으로 고정한다.'
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 최신 통합 시트의 얼굴·검은 빗어넘긴 머리·체형을 모든 각도에서 유지한다. 검정 교임 장포, 흰 안깃과 버건디 겹깃·안감, 분홍 매화 가지 자수, 하단 회색 산수 문양, 넓은 소매, 금속 장식 허리띠·붉은 매듭·긴 밝은 태슬, 매화 자수 검정 장화 고정. 장문인 전용 매화검의 검집·칼날·호위·검두·손잡이 구조를 시트와 동일하게 유지한다. 시트의 분할 화면·문자·산수 배경을 실제 장면에 복제하지 않는다.
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '성숙한 성인 남성의 깊고 안정적인 중저음. 음색은 단단하고 묵직하며, 과한 거친 소리 없이 또렷한 울림으로 전달된다. 말의 속도는 차분한 보통 속도보다 조금 느리고, 문장 사이에 짧은 호흡을 두며 끝맺음은 낮고 분명하다. 평소에는 장문인다운 절제된 위엄이 느껴진다. 혜은과 그 동생들을 대할 때는 무게감 속에 담백한 온기와 포용이 드러난다. 가르침을 줄 때는 핵심을 한 문장씩 정확하게 짚으며, 꾸짖거나 위험을 경고할 때는 음량을 과하게 높이지 않고 어조를 단단하게 세운다. 감정이 실려도 기본적인 안정감과 낮은 음역을 유지한다.
+
+      확인할 항목: 옥녀심공의 효과·전수 방식, 경지·정확한 나이, 관계별 대사 호칭. 보이스 채택과 심법 이름은 확정됐으므로 다시 질문하지 않는다. 각 항목은 필요한 장면에서 질문한다.'
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 현재 / 기수 미지정\n  - 최신 공식 통합 시트: 1000033558.png\n  - 자산 식별: 파일 ID file_00000000f7148206b1740e62d657499d; 지속 자산 ID 미확인.\n  - 정면·후면·3/4, 얼굴·눈·입술·피부, 헤어·깃·자수·허리 장식·장화·표정·장문인 매화검 세부를 포함한다. 현재 외형의 최우선 기준이다.\n  - 기존 1000032654.jpg는 이전 자료로 보관하며 최신 시트와 충돌할 때 적용하지 않는다."
+    locator: §2.8
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 전체 본명·나이·경지; 자신의 주력 무공과 매화검의 별도 고유명 유무; 윤종과 직접 사제관계; 옥녀심공 단계·효과·수련기간·전수 조건. (§11.8)

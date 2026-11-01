@@ -1,0 +1,63 @@
+schema_version: 1
+id: yang-hakgyeong
+name_ko: 양학경
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations: []
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 1307년생, 1351년 전사(연 나이 44세). 양가장주의 동생·양문익의 작은아버지.
+    locator: §2.32
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 방국진 진영 장군, 절정, 주력 양가이화창.
+    locator: §2.32
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 자식이 없었고 무공에 특별히 뛰어난 기재는 아니었으며 군부에 뜻을 두고 투신.
+    locator: §2.32
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 1350년 회귀 직후 쓰러진 수아를 데려와 딸처럼 아끼며 창법을 가르침.
+    locator: §2.32
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 수아의 창법 전수 인과를 위한 배경 인물. 비중 있는 조연이나 복수 서사로 확대하지 않는다.
+    locator: §2.32
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

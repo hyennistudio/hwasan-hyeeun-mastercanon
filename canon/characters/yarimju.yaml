@@ -1,0 +1,117 @@
+schema_version: 1
+id: yarimju
+name_ko: 야림주
+aliases:
+- 연무겸
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - yarim
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 출생·나이
+  value:
+    text: 1300년생 / 1353년 기준 53세
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 야림
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 림주 / 표면 신분 의원
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 초절정
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 낮고 건조한 중저음.
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 가령의 친부. 야림은 하북·하남의 살수 세력. 안휘·강소를 포함하던 이전 기록은 폐기.
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 미확정
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 의원 신분과 살수 지위를 분리해 연출.
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '낮고 차갑며, 감정을 거의 드러내지 않는 건조한 중저음으로 전달된다.
+
+      말을 서두르지 않고, 짧게 끊어서 또박또박 말한다.'
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 통합 시트 또는 원본 연결 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 기존 제작 이미지가 있다면 최종 자료를 연결한다. 새 이미지가 생성됐다고 선언하지 않는다."
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 본명 연무겸(延武謙), 작가 채택 확정. 정면 대결보다 은밀한 살수 무공에 특화되며 개별 무공명은 미정. 가령이 자신의 친딸이며 가령은 모든 정체를 안다. 45화 의원으로 초현을 진료하러 방문한 자리에서 정협의 복수 의뢰를 받았고 표적은 채원이다. 팽가가 살수업을 묵인하는 대가로 야림은 하북·하남에서 팽가의 더러운 일을 맡는다. 정파의 공인을 받는 문파가 아니라 거대 문파를 거스르면 괴멸할 수 있는 음지의 청부살인 조직이다.
+    locator: §2.20
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 개별 살수 무공·무기·현재 위치·친부 관계의 대외 공개 범위. 1300년생·초절정·하북/하남 활동 확정. (§11.20)

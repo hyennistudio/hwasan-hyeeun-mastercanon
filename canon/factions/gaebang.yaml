@@ -1,0 +1,34 @@
+schema_version: 1
+id: gaebang
+name_ko: 개방
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids:
+- no-manseong
+member_ids:
+- hugae
+- heukbong-ganggoe
+- no-manseong
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: '개방: 정보조직. 후개·흑봉의 개인 보호를 개방 전체 참전으로 확대하지 않는다.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: '일방: 개방.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

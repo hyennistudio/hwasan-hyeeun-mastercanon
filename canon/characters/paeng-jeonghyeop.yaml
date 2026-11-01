@@ -1,0 +1,128 @@
+schema_version: 1
+id: paeng-jeonghyeop
+name_ko: 정협
+aliases:
+- 팽정협
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hebei-paeng
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 출생·나이
+  value:
+    text: 1328년생 / 1353년 기준 25세
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 하북팽가
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 소가주 / 장남
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 초절정
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 호탕하고 걸걸하며 여동생을 걱정한다. 높은 상투·검정 무복·금색 호랑이 자수·왼쪽 볼 칼자국.
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 초현·가령과 팽가 관계.
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 건곤연환 탈백도 대성. 빠르고 현란하면서 묵직하고 패도적인 연환 도법. 팽가도법은 가문 도법 전체의 총칭이다.
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 초식 이름을 임의 창안하지 않는다.
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '팽정협(남성)의 목소리는 걸걸하고 호탕한 중저음으로 전달된다.
+
+      말은 크고 또박또박하며, 숨을 아껴 낮게 깔지 않는다.
+
+      여동생을 부를 때는 거칠어도 걱정이 먼저 나오고, 화가 나면 한 마디를 짧게 터뜨린다.
+
+      흑봉처럼 음흉하게 웃지 않고, 남궁휘처럼 조용히 끊지 않는다.'
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 통합 시트 또는 원본 연결 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 기존 제작 이미지가 있다면 최종 자료를 연결한다. 새 이미지가 생성됐다고 선언하지 않는다."
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 팽호량의 장남·소가주. 45화 초현의 중상을 보고 의원으로 방문한 야림주에게 직접 채원에 대한 복수를 의뢰했다. 팽호량의 지시·승인으로 확대하지 않는다. 캐릭터시트 완성·등록. 최신 적용 항목 참조.
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 최신 적용
+  value:
+    text: '캐릭터시트 완성·등록: 1000035465.png. 최신 완성 시트의 인물·의복·무기 외형을 고정하며 미승인 인쇄 설정은 무시한다.'
+    locator: §2.17
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 완성 시트의 도 운용 세부. 출생·경지·건곤연환 탈백도 대성 확정. (§11.17)

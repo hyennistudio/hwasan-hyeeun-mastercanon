@@ -1,2 +1,8 @@
 schema_version: 1
-sources: []
+sources:
+- id: src-mastercanon-20261028
+  title: 화산혜은 마스터캐논 (최신 통합 갱신 2026-10-28 KST)
+  type: original_text
+  path_or_url: sources/raw/hwasan-mastercanon-2026-10-28.md
+  locator: 문서 전체 (§1~§12)
+  verification_status: unverified

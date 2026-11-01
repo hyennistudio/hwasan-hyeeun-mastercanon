@@ -1,0 +1,110 @@
+schema_version: 1
+id: hugae
+name_ko: 후개
+aliases:
+- 류지광
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - gaebang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정 — 보이스는 30대 청년 기준
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 개방
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 후개 / 팔결 / 개방 차기 용두방주
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 미확정
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 장난기와 예의가 함께 있는 청년. 각진 얼굴·짙은 눈썹·날카로운 눈매·거친 피부결, 높은 검정 상투와 잔머리. 흑봉의 노인 음색과 구분한다.
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: '19화 혜은 일행과 첫 만남. 유진이 「만마혈전의 마녀」라는 소문을 전하고 혈혼사·사사혈교 정보를 설명했으며, 치료를 위해 자신이 아는 아미산 은정의 암자로 안내했다. 혜은에게 혈불의 존재를 알려준 사람도 후개다. 현재 사사혈교에 관해 어느 정도 정보력을 갖춘 세력은 개방뿐이며 전모를 모두 안다는 뜻은 아니다. 혜은이 유진·채원 둘만 보내는 일을 걱정했고, 후개는 위험을 예감해 흑봉에게 미리 도움을 청했다.
+
+      혜은 편에서 동행한다. 개방 첩보로 북해 소궁주 단서를 얻었다. 후개의 개인 보호와 개방 전체의 결정을 구분한다. 흑봉에게 유진·채원 보호를 부탁했다.'
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 타구봉법. 세부 초식·성수·내공·경지 미확정. 전용 무기 타구봉은 최신 시트의 짙은 갈색 봉체·용 조각·금속 장식·감은 손잡이·하단 장식·청옥 구슬·붉은 끈과 술을 기준으로 한다. 팔결 신분을 유지하며 매듭을 임의로 늘려 구결로 승격시키지 않는다. 차기 용두방주이며 이미 현 방주가 된 것으로 연출하지 않는다.
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 해지고 기운 회갈색 개방포의 구멍·해진 가장자리·겹친 천, 굵은 팔결 매듭과 허리 천끈, 각반·낡은 신발 고정. 등 황갈색 표주박과 갈색 소품 주머니, 높은 상투와 잔머리, 용 조각 타구봉·청옥 구슬·나무 구슬·붉은 끈과 긴 술을 정면·후면·사선 모두 일치시킨다. 능청스러운 미소·진지함·지도자다운 표정은 상황에 맞춰 사용하며 미소를 모든 씬에 강제하지 않는다. 시트 글자·분할 화면은 장면에 재현하지 않는다.
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 장난기 섞이면서도 예의 바른 30대 청년의 톤으로 전달된다.
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 현재 / 기수 미지정\n  - 최신 공식 통합 시트: 1000033547.png\n  - 자산 식별: 파일 ID file_000000005ac08209a116ab9ef0fa06a8; 지속 자산 ID 미확인.\n  - 정면·후면·3/4, 얼굴·상투·팔결 매듭·해진 의복·손·표정·표주박·주머니 및 타구봉 전체와 용 조각·옥 장식·손잡이·하단을 포함한다.\n  - 기존 1000027082.jpg는 이전 자료이며 충돌 시 최신 통합 시트를 따른다."
+    locator: §2.10
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 정확한 나이·경지·스승; 차기 용두방주 지위의 권한 범위; 타구봉법 성수·내공; 상호 호칭. 19화 첫 만남과 은정에게 안내한 경위는 확정. 본명 류지광·팔결·차기 용두방주·통합 시트는 등록 완료. (§11.10)

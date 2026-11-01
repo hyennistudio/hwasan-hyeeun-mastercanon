@@ -1,0 +1,115 @@
+schema_version: 1
+id: namgung-hwi
+name_ko: 휘
+aliases:
+- 남궁휘
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - namgung
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 출생·나이
+  value:
+    text: 1331년생 / 1353년 기준 22세
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 남궁세가
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 소가주
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 초절정 완숙단계. 조화경의 벽에 막혀 있음
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 말수 적은 검 바보. 외형 상세 미확정.
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 혁련의 아들, 제갈령령과 혼인. 곽자흥 암살 누명.
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 창궁무애검법 7성
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 7성을 경지로 해석하지 않는다.
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 미확정 — 기존 전문을 확인하거나 작가 답변으로 등록한다.
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 통합 시트 또는 원본 연결 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 기존 제작 이미지가 있다면 최종 자료를 연결한다. 새 이미지가 생성됐다고 선언하지 않는다."
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 유진을 제외한 후기지수 최상위 세 명은 휘·단서진·양문익이며 셋의 세부 서열은 미정. 혁련에게 천뢰제왕신공과 창궁무애검법의 제왕검형을 전수받는 중. 완전 습득·성수는 미확정. 48화 오전 령령과 정략혼, 오후 용봉지회 예선 시작. 검 바보의 차갑고 표현이 서툰 인상은 논의됐으나 부부의 애정 유무와 상세 관계는 미확정. 무심하지만 책임과 예의를 지키는 신혼부부 묘사는 감독 제안.
+    locator: §2.21
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 전수 중 비기 진도·검과 검집·시트·보이스·부부 애정. 1331년생·초절정 완숙·창궁무애검법 7성 확정. (§11.21)

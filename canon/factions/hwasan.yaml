@@ -1,0 +1,34 @@
+schema_version: 1
+id: hwasan
+name_ko: 화산파
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids:
+- songhyeon
+member_ids:
+- hyeeun
+- songhyeon
+- yunjong
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: '화산: 송현의 문파. 도가문파이자 검파. 채원만 옥녀심공·암향표를 전수받고 유진은 무공 심득을 배운다. 세부 효과·단계·기간은 미확정이다. 다른 작품의 동명 무공 조건을 가져오지 않는다.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 원문 언급
+  value:
+    text: '구파: 소림파·무당파·화산파·아미파·청성파·점창파·공동파·곤륜파·종남파.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

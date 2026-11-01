@@ -1,0 +1,103 @@
+schema_version: 1
+id: bohyeon-sinni
+name_ko: 보현신니
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - ami
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 문파·소속
+  value:
+    text: 아미파
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위
+  value:
+    text: 아미파 4대 장문인
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 나이·경지
+  value:
+    text: 미확정
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계
+  value:
+    text: 무림 배분상 유진을 사숙조라고 부른다.
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 외형·고정지침
+  value:
+    text: 작가가 제공한 1000033539.png 통합 시트를 기준으로 얼굴·체형·헤어·의상·장신구·하이힐·검 외형을 고정한다. 검정 긴 머리의 높은 반묶음과 뒤로 길게 이어지는 머리, 금색 원형 머리장식·가로 비녀·꽃 세공과 진주 장식을 유지한다. 아이보리색과 옅은 회녹색의 긴 겹옷, 금색 연꽃·구름 자수, 넓은 소매·긴 겉자락, 허리띠의 연꽃 장식·진주와 태슬을 시트대로 적용한다. 아이보리·회녹색 꽃 자수와 금색 세공의 앵클 스트랩 하이힐을 유지한다. 은정선사와 얼굴·머리·의상·보이스를 혼합하지 않는다. 시트의 소개문·나이 추정·무공 효능을 자동으로 설정에 편입하지 않는다. 영상에는 시트 글자·분할 구성·라벨을 재현하지 않는다.
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무기·무공 구분
+  value:
+    text: '시트에 대라수미검으로 표기된 실물 장검: 곧은 은빛 칼날, 금색 연꽃형 가드·원형 손잡이 끝장식, 검정 손잡이·장식 끈과 태슬, 세공된 검집을 해당 상세 패널대로 유지한다. 기존 대라수미검 검법과 실물 검의 명칭 관계, 보현의 검법 성수·효능은 별도 확인 전 임의 확정하지 않는다.'
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '보현신니(여성)의 목소리는 차분하고 공손한 중저음이다.
+
+      아미파 장문인으로서 예의 바르고 정중한 말투를 사용하며, 자신보다 윗사람을 대할 때는 약간의 존중과 부드러움이 섞여 있다.'
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트
+  value:
+    text: '- 최신 자료: 1000033539.png
+
+      - 자산 식별: libfile_8a213d2657cc8191a81535afe4e4f97d
+
+      - 첨부 식별: file_000000001aec8207b54bd8e63f91955d
+
+      - 구성: 정면·사선·후면 전신, 큰 얼굴, 머리·의상·허리·하이힐·검 상세, 다섯 표정.
+
+      - 기수: 미지정. 4대 장문인은 직위의 계보이며 외형 4기를 의미하지 않는다.'
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 최신 적용
+  value:
+    text: 첫 정파회합에 아예 초청되지 않는다. 봉문 중인 문파의 장문인으로 외부 활동을 하지 않으며 주최 측은 아미 축출을 기정사실처럼 취급한다. 회합장 좌석에 등장시키지 않는다.
+    locator: §2.27
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- '보현신니: 나이·경지·성격·무공과 성수; 시트 실물 장검과 대라수미검 검법의 명칭 관계; 아미 3대 장문의 공백 설정. 시트 외형은 프로필 2.27에 등록 완료. (§11.26)'

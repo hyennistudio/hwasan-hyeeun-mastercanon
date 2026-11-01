@@ -1,0 +1,23 @@
+schema_version: 1
+id: dokgo
+name_ko: 독고세가
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids: []
+member_ids: []
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: 독고세가·진주언가 등 지방의 대규모 세가도 존재하며 시즌2에 등장했다. 오대세가에 자동 편입하지 않는다.
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

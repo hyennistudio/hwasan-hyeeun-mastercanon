@@ -1,0 +1,110 @@
+schema_version: 1
+id: heukbong-ganggoe
+name_ko: 흑봉강괴
+aliases:
+- 장구운
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - gaebang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 미확정 — 노인
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 개방
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 칠결 장로
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 조화경
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 노인 특유의 걸걸한 중저음과 능청스럽고 짓궂은 장난. 헝클어진 백발·긴 수염·누더기, 익살스러운 외양 아래 의로운 결단과 신의를 지닌다.
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: '후개의 사전 부탁을 받고 합비의 거지 정보망으로 유진·채원의 행보를 주시했다. 야림 습격 때 유진보다 먼저 도착했다. 이후 두 사람을 개방 분타로 안내해 용봉지회까지 보호했다. 고급 객잔에 머물면 다시 표적이 될 수 있기 때문이다. 채원은 거지 옷을 입고 흑봉과 관객석에서 유진의 경기를 본다. 야림의 습격은 알지만 정협의 청부를 확인한 것은 아니며, 팽가와의 충돌에서 보복을 짐작하는 수준이다.
+
+      후개의 부탁으로 채원·유진을 관찰하러 갔으나 온전히 두 사람의 편에 서서 용봉지회 탈출을 돕는다. 채원에게 누더기를 줬다. 후개와 더불어 S.H.E. 편에 끝까지 선다. 훗날 개방·소림이 구정련에서 갈라지는 데 결정적인 역할을 한다. 이것이 현재 개방 전체를 단독으로 움직일 권한이나 소림 지휘권을 의미하지 않는다.'
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 조화경. 애병 흑봉은 검은 봉체·둥근 머리와 하단·청옥 장식·쇠사슬을 최신 시트대로 유지한다. 주력 봉법·내공심법·성수는 별도 미확정. 칠결장로 표식은 일곱 매듭이며 후개의 팔결과 혼합하지 않는다.
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 채원의 개방 문도 발언은 탈출을 위한 궤변.
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 흑봉강괴 장구운(남성)의 목소리는 낮고 거친 중저음에 노인 특유의 걸걸한 울림이 있다. 평소에는 능청스럽고 짓궂은 장난기가 섞이며, 느리고 또박또박 말하면서 말끝에 가벼운 비꼼과 웃음을 얹는다. 음흉하거나 음탕한 악역 음색으로 표현하지 않는다. 채원·유진을 대할 때는 투박한 다정함이 드러난다. 부당함을 꾸짖거나 두 사람을 지킬 때는 웃음이 사라지고 같은 중저음 안에서 단단하고 곧게 말한다. 분노해도 기본적인 노인의 거친 음색을 유지하며 젊은 후개의 목소리와 구분한다.
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: exec-1b8cac26-9f9c-40c7-8d6c-0c2e017bc7b3.png — 이번 대화에서 생성한 실사 통합 시트.\n  - 자산 식별: 지속 자산 ID 미확인.\n  - 로컬 자료: /workspace/scratch/378cd388864c/generated_images/exec-1b8cac26-9f9c-40c7-8d6c-0c2e017bc7b3.png\n  - 상세 고정: 전신 세 각도·얼굴 또는 후드·착장·소품·무기(해당 인물)·표정 또는 자세 패널을 기준으로 한다. 분할 화면과 글자를 영상에 재현하지 않는다."
+    locator: §2.15
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 나이·경지·주력 무공·무기; 기수별 시트·후면·착장. (§11.15)

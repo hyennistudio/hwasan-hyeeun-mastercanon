@@ -1,0 +1,25 @@
+schema_version: 1
+id: sacheon-dang
+name_ko: 사천당가
+aliases: []
+universe: hwasan-hyeeun
+record_status: draft
+leader_ids:
+- dang-gyeongak
+member_ids:
+- dang-gyeongak
+territory: null
+flag_asset_ids: []
+facts:
+- field: 원문 언급
+  value:
+    text: '오대세가: 남궁세가·제갈세가·하북팽가·사천당가·모용세가.'
+    locator: §3
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

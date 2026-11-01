@@ -1,0 +1,108 @@
+schema_version: 1
+id: yunjong
+name_ko: 윤종
+aliases:
+- 연경
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hwasan
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 나이
+  value:
+    text: 20대 초반 — 정확한 나이 미확정
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 해당 없음
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 화산파
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 2대제자
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 절정
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 성실하고 예의 바른 청년. 맑고 밝은 음색, 단정한 짧은 흑발과 자연스러운 앞머리. 얼굴과 체형은 기존 레퍼.
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 혜은을 사고라고 부른다. 동행을 요청했고 혜은이 허락했다. 북해 환자의 호흡을 우연히 잠시 완화한다. 만능 치료·혈혼사 자동 탐지로 확대하지 않는다.
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: 칠매검 대성. 차기 매화검수 유력 후보이며 아직 매화검수 확정으로 바꾸지 않는다. 기의 운용과 의술에 능하다. 내공심법 이름은 미확정. 칠매검은 검술이며 실물 검 이름이 아니다. 애병은 매화검 「매화(梅華)」. 검정 감은 손잡이, 금속 매화 호위·검두, 곧은 은색 칼날의 매화 가지 문양, 검정 검집의 분홍 매화·금속 장식, 검정 검수·분홍 구슬을 시트대로 유지한다. 약낭은 검정 천에 분홍 매화 장식·붉은 끈이며 약재와 간단한 의술 도구를 휴대한다. 의술을 만능 치료나 괴질 완치 능력으로 확대하지 않는다.
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 검정 교임 무복·누빈 깃·검정 허리띠와 바지·밀착 안소매. 왼쪽 가슴 분홍 매화. 등 중앙 봉제선과 무늬 없는 검정 등판. 검정 각반과 낮은 검정 신발. 최신 시트의 정면·후면·3/4 얼굴과 무복 재단, 매화검·검집·약낭 구조를 유지한다. 낮은 목소리로 바꾸지 않는다. 시트의 글자·분할 화면은 실제 장면에 재현하지 않는다.
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: 젊은 성인 남성의 맑고 밝은 중고음. 기본 말소리는 일반적인 남성 중음보다 한 단계 높고 가벼우며, 저음의 무게감이나 굵은 가슴 울림 없이 앞쪽으로 또렷하게 뻗는다. 소년처럼 앳되거나 가성처럼 얇지 않고, 성인 청년의 자연스러운 진성과 생기를 유지한다. 발음은 정확하고 단정하며, 말의 속도는 자연스러운 보통 속도다. 호흡은 가볍고 안정적이며, 문장 끝은 낮게 떨어뜨리지 않고 밝은 음색 안에서 짧고 분명하게 맺는다. 평소에는 예의와 성실함이 느껴지고, 질문할 때는 끝음을 살짝 들어 올려 청년다운 호기심을 드러낸다. 혜은을 사고라고 부를 때는 공손하고 담백한 온기가 묻어나며, 과장된 애교나 능청스러운 장난은 넣지 않는다. 긴장하거나 분노하면 자음과 말의 강세를 단단하게 세우되, 목소리를 굵게 만들거나 중저음으로 내려가지 않는다. 전투 중 짧은 외침은 맑고 높은 진성으로 힘 있게 전달하며, 날카로운 비명이나 거친 저음의 포효로 바꾸지 않는다.
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 현재 / 기수 미지정\n  - 최신 공식 통합 시트: 1000033554.png\n  - 자산 식별: 파일 ID file_0000000011608206b162bfbac34d5513; 지속 자산 ID 미확인.\n  - 정면·후면·3/4, 얼굴·헤어·표정·무복·매화 문양·신발, 매화검 「매화」와 검집, 약낭·의술 소품을 포함한다.\n  - 기존 1000027064.jpg / 1000027065.jpg는 이전 자료이며 충돌 시 최신 통합 시트를 따른다."
+    locator: §2.9
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 정확한 나이·스승·내공명; 매화검의 평상시 패용 위치; 후개와 상호 호칭. 본명 연경·20대 초반·칠매검 대성·통합 시트 및 무기 외형은 등록 완료. (§11.9)

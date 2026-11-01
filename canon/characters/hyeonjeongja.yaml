@@ -1,0 +1,44 @@
+schema_version: 1
+id: hyeonjeongja
+name_ko: 현정자
+aliases:
+- 玄正子
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - mudang
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 프로필 항목
+  value:
+    text: 현 무당파 장문인, 현운자의 사형. 현자 항렬.
+    locator: §2.34
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 프로필 항목
+  value:
+    text: 중요 비중을 부여하지 않고 이름·직위·사형제 관계만 등록. 나이·경지·무공 추가 설정 없음.
+    locator: §2.34
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions: []

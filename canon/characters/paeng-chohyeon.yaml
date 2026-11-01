@@ -1,0 +1,124 @@
+schema_version: 1
+id: paeng-chohyeon
+name_ko: 초현
+aliases:
+- 팽초현
+universe: hwasan-hyeeun
+record_status: draft
+profile:
+  reference_year: null
+  birth_year: null
+  age: null
+  age_basis: null
+  apparent_age: null
+  affiliations:
+  - hebei-paeng
+  titles: []
+appearance:
+  description: null
+  reference_asset_ids: []
+martial_arts:
+  realm: null
+  techniques: []
+  weapons: []
+relationships: []
+facts:
+- field: 출생·나이
+  value:
+    text: 1331년생 / 1353년 기준 22세
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 유방 사이즈
+  value:
+    text: 미확정
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 문파·소속
+  value:
+    text: 하북팽가
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 직위·별호
+  value:
+    text: 장녀
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 경지
+  value:
+    text: 초절정
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 성격·외모 특징
+  value:
+    text: 차갑고 건조한 중저음. 말수 적고 직설적. 외형 상세 미확정.
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 관계·목적·정보 범위
+  value:
+    text: 채원과의 싸움에서 홍염개화를 정통으로 맞아 중상. 45화 야림주가 의원으로 방문하여 진료.
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 무공·무기·그 밖의 설정
+  value:
+    text: '주력은 오호단문도. 기초적이면서 완성도 높은 가전도법으로 맹렬한 연계가 특징. 사용 가능한 작가 제시 초식: 비호출림·양호합격·삼호맹습.'
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 고정지침
+  value:
+    text: 부상 상태와 회복 시점을 임의 변경하지 않는다.
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 보이스톤
+  value:
+    text: '차갑고 건조한 중저음 톤으로 전달된다.
+
+      말수가 적고, 감정을 거의 드러내지 않으며 말투가 짧고 직설적이다.'
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 캐릭터 시트 — 기수·모드 순서
+  value:
+    text: "- 기수 미지정\n  - 자료: 통합 시트 또는 원본 연결 미등록\n  - 자산 식별: 미확인\n  - 상세 고정: 기존 제작 이미지가 있다면 최종 자료를 연결한다. 새 이미지가 생성됐다고 선언하지 않는다."
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 전승·관계 보완
+  value:
+    text: 팽호량의 장녀. 캐릭터시트 완성·등록. 최신 적용 항목 참조. 참조 이미지 1000027078.jpg(이번 대화 첨부)의 얼굴·쪽머리·금빛 비녀·검정 호랑이 자수 의상·붉은 레이스업 허리띠를 기준으로 한다. 초기 생성 시도는 사용량 제한으로 실패했으나 이후 작가가 완성 시트를 제출했다. 현재는 완성 시트를 우선한다.
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+- field: 최신 적용
+  value:
+    text: '캐릭터시트 완성·등록: 1000035454.png. 최신 완성 시트 외형 고정. 미승인 인쇄 설정은 무시한다.'
+    locator: §2.18
+  status: draft
+  source_ids:
+  - src-mastercanon-20261028
+approval:
+  approved_by: null
+  approved_at: null
+  source_ids: []
+open_questions:
+- 오호단문도 성수·부상 회복 시점·미확정 보이스. 시트 완성·등록. 출생·경지·주력 도법 확정. (§11.18)
